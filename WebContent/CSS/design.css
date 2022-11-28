@@ -1,0 +1,127 @@
+
+
+
+header{
+	
+	border:1PX solid   black  ;
+	
+	margin:30px;
+	margin-top: 0px;
+	background-color:blue;
+	
+}
+
+
+
+
+.titre_principal{
+	pading:0px;
+width:40%;
+	margin:auto;
+ text-align: center;
+	font-family: "Agency FB";
+}
+
+.erreur {
+	color:red;
+	text-align: center;	
+}
+
+nav{
+	display:inline-block;
+	
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	float: left;
+	margin-left: 15px;
+	
+}
+.menu{
+	font-size: 1.3em;
+	text-decoration: none;
+	
+color:#181818;
+}
+
+.titre_secondaire{
+	position: relative;
+	left:450px;
+}
+.titre_secondairee{
+	position: relative;
+	left:150px;
+}
+
+table{
+	position: relative;
+	left:330px;
+	border: solid 1px;
+
+}
+
+#first_ligne
+{
+    border: solid 1px green;
+    color: black;
+    background-color: green;
+}
+form
+{
+	width: 50%;
+	margin: auto;
+	padding: 10px;
+	border-radius: 20px;
+	border: outset 2px grey;
+}
+.idem
+{
+	text-align: center;
+}
+
+.idem label
+{
+
+	margin: 15px;
+	display: inline-block;
+	width: 15%;
+	text-align: right;
+	font-size: 1.2em;
+}
+.idem input
+{
+  height:25px;
+  border-color: grey;
+  padding: 2px;
+  border-radius: 10px;
+  
+}
+
+.idem input[type="submit"]
+{
+	display: inline-block;
+	margin-top: 10px;
+	color: black;
+	width: 100px;
+	height: 30px;
+	background-color: green;
+	border: double 3px grey;
+	border-radius: 10px;
+}
+footer{
+	position: absolute;
+	height: 6%;
+	left: 0px;
+	top: 95%;
+	padding-top: 5px;
+	color: black;
+	text-align:center;
+	background-color: green;
+	width: 94%;
+	margin-left: 30px;
+	margin-top:0px;
+	}
